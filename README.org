@@ -1,0 +1,28 @@
+* AOJ-ICPC
+- http://ichyo.jp/aoj-icpc/
+- http://ichyo.jp/aoj-icpc/?aoj_username=tsu_nera
+
+* ACM/ICPC 国内手引き
+- http://www.deqnotes.net/acmicpc/
+
+  - Hanafuda Shuffle: http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1129&lang=jp
+  - Ohgas' Fortune: http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1135&lang=jp
+  - Keitai Message http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2006
+  - Exploring Caves http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1119
+  - When Can We Meet? http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1124
+  - Make Purse Light http://jud2123ge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2007
+  - Get Many Persimmon Trees http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1125
+  - Numeral System
+  - Red and Black
+  - Polygonal Line Search
+  - Dirichlet's Theorem on Arithmetic Progressions
+  - Unit Fraction Partition
+  - Organize Your Train part II
+  - Curling 2.0
+  - Dragon Fantasy
+  - The Secret Number 
+  - Gather the Maps!
+  - Circle and Points
+  - Area Separation
+  - Non-Stop Travel
+  - Cleaning Robot
