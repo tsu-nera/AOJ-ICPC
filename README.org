@@ -12,14 +12,16 @@
   - When Can We Meet? http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1124
   - Make Purse Light http://jud2123ge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2007
   - Get Many Persimmon Trees http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1125
-  - Numeral System
-  - Red and Black
-  - Polygonal Line Search
-  - Dirichlet's Theorem on Arithmetic Progressions
-  - Unit Fraction Partition
-  - Organize Your Train part II
-  - Curling 2.0
-  - Dragon Fantasy
+  - Numeral System http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1137&lang=jp
+  - Red and Black http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1130&lang=jp
+  - Polygonal Line Search http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1136&lang=jp
+  - Dirichlet's Theorem on Arithmetic Progressions http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1141&lang=jp
+  - Unit Fraction Partition http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1131&lang=jp
+  - Organize Your Train part II http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1142&lang=jp
+  - Curling 2.0 http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1144&lang=jp
+
+  ここから難易度が上がる.
+  - Dragon Fantasy http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2008
   - The Secret Number 
   - Gather the Maps!
   - Circle and Points
